@@ -4,7 +4,7 @@ Hello, actualmente quiero aprender a manejar diferentes programas, como Python, 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jorgelasso77" alt="Visitors">                
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelasso77&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 <!--
 **jorgelasso77/jorgelasso77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
