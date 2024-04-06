@@ -1,7 +1,9 @@
 ### Hi, my name is Jorge Lasso 👋
 Hello, actualmente quiero aprender a manejar diferentes programas, como Python, RStudio y seguir avanzando en la línea de estadística.
 ![Static Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https%3A%2F%2Fwww.jorls)
-
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jorgelasso77" alt="Visitors">                
+</p>
 
 <!--
 **jorgelasso77/jorgelasso77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
